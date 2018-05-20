@@ -1,4 +1,4 @@
-  # REACT JS PROJECT
+  # THE WEATHER MAN
 
 
 A weather application was created using React in which API calls are made to the OpenWeatherApp API to retirve data related to the weather chacacterstics belonging to that city.
